@@ -13,6 +13,9 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
+        private static string inputTxtBox1;
+        private static string inputTxtBox2;
+
         public FormCalculadora()
         {
             InitializeComponent();
@@ -36,7 +39,31 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            string resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperator.Text).ToString();
+            this.lblResultado.Text = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperator.Text).ToString();
+           //Habilito botones para convertir a binario solo en caso de que el valor ingresado sea mayor a 0 y diferente de null;
+            if (this.lblResultado.Text == null || this.lblResultado.Text == "0")
+            {
+                this.btnConvertirADecimal.Enabled = false;
+                this.btnConvertirABinario.Enabled = false;
+            }
+            else
+            {
+                //Compruebo que el valor del LabelResultado sea mayor a 0 para habilitar el botón de convertir a binario. 
+                double resultadoLbl = double.Parse(this.lblResultado.Text);
+                
+                if (resultadoLbl >0)
+                {
+                    this.btnConvertirADecimal.Enabled = false;
+                    this.btnConvertirABinario.Enabled = true;
+                }
+                else
+                {
+                    this.btnConvertirADecimal.Enabled = false;
+                    this.btnConvertirABinario.Enabled = false;
+                }
+                
+            }
+
             //VER VALIDACIONES, COMO PARA PROBAR.
         }
 
@@ -58,6 +85,17 @@ namespace MiCalculadora
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
             Numero num = new Numero();
+            if(!double.TryParse(lblResultado.Text, out double numeroLblResultado))
+            {
+                MessageBox.Show("Error.\nPor favor ingrese valores numéricos para seguir operando.");
+                this.txtNumero1.Text = "";
+                this.txtNumero2.Text = "";
+                this.cmbOperator.SelectedIndex = 0;
+                this.btnConvertirABinario.Enabled = false;
+                this.btnConvertirADecimal.Enabled = false;
+                this.lblResultado.Text = "";
+
+            }
             this.lblResultado.Text = num.DecimalBinario(this.lblResultado.Text);
             this.btnConvertirADecimal.Enabled = true;
             this.btnConvertirABinario.Enabled = false;
@@ -71,9 +109,6 @@ namespace MiCalculadora
             this.btnConvertirABinario.Enabled = true;
         }
 
-        private void txtNumero1_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
+        
     }
 }

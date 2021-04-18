@@ -10,17 +10,26 @@ namespace Entidades
     {
         private double numero;
 
-
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public Numero()
         {
             this.numero = 0;
         }
-
+        /// <summary>
+        /// constructor takes a double value
+        /// </summary>
+        /// <param name="numero"></param>
         public Numero(double numero) : this()
         {
             this.numero = numero;
         }
 
+        /// <summary>
+        /// constructor takes a string value
+        /// </summary>
+        /// <param name="strNumero"></param>
         public Numero(string strNumero) : this()
         {
             this.SetNumero = strNumero;
@@ -67,10 +76,22 @@ namespace Entidades
         {
             for (int i = 0; i < binario.Length; i++)
             {
-                if (binario[i] == '0' || binario[i] == '1')
+                //Verifico que el primer caracter no sea diferente de 0 o 1. Caso en el cual no sería necesario seguir iterando.
+                if (binario[0] != '0' && binario[0] != '1')
+                {
+                    return false;
+
+                }
+                else if (binario[i] == '0' || binario[i] == '1')
                 {
                     return true;
                 }
+
+                /*if(binario[i] != '0' && binario[i] != '1')
+                {
+                    return false;
+                }
+                return true;*/
             }
             return false;
         }
@@ -82,23 +103,24 @@ namespace Entidades
         /// <returns></returns>
         public string BinarioDecimal(string binario)
         {
+            int ahoraDecimal = 0;
+            int lengthBinario = binario.Length;
             if (EsBinario(binario))
             {
-                int ahoraDecimal = 0;
-
                 for (int i = 0; i < binario.Length; i++)
                 {
+                    lengthBinario--;
                     //Para convertirlo a decimal, elevo la base 2 al índice de las posiciones que contengan 1 y sumo los valores. 
                     if (binario[i] == '1')
                     {
-                        ahoraDecimal = (int)Math.Pow(2, i) + ahoraDecimal;
+                        ahoraDecimal = (int)Math.Pow(2, lengthBinario) + ahoraDecimal;
                     }
                 }
 
                 return ahoraDecimal.ToString();
             }
 
-            return " Valor Inválido ";
+            return " Valor Inválido2";
         }
 
         /// <summary>
@@ -109,22 +131,24 @@ namespace Entidades
         /// <returns></returns>
         public string DecimalBinario(double numero)
         {
-            if (numero >= 0)
-            {
-                string ahoraBinario = "";
-                //Utilizo Math.Truncate para tomar sólo la parte entera de un número de punto flotante.
-                Math.Truncate(numero);
+            string ahoraBinario = "";
+            int parteEntera = (int)numero;
+            int resto;
 
-                while (numero > 0)
+            if(parteEntera >=0)
+            {
+                while(parteEntera > 0)
                 {
-                    //Tomo el resto y lo concateno para convertirlo a Binario.
-                    ahoraBinario += numero % 2;
-                    //Divido para poder tomar el resto de la mitad del número actual en la próxima iteración.
-                    numero = numero / 2;
+                    resto = parteEntera % 2;
+                    parteEntera = parteEntera / 2;
+                    ahoraBinario = resto.ToString() + ahoraBinario;
                 }
-                return ahoraBinario;
             }
-            return "Valor Inválido";
+            else
+            {
+                return "Valor Inválido1";
+            }
+            return ahoraBinario;
         }
 
 
@@ -137,13 +161,15 @@ namespace Entidades
         public string DecimalBinario(string numero)
         {
             double esNumero;
-
+            string resultado = "0";
             if (double.TryParse(numero, out esNumero))
             {
-                DecimalBinario(esNumero);
+                resultado = DecimalBinario(esNumero);
                 //Dentro de este método se valida a su vez que el núm. sea mayor a 0 y se toma de este solo la parte entera.
+                
             }
-            return "Valor Inválido";
+            return resultado;
+
         }
 
         /// <summary>

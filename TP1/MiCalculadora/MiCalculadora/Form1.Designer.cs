@@ -46,7 +46,6 @@
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(160, 44);
             this.txtNumero1.TabIndex = 0;
-            this.txtNumero1.TextChanged += new System.EventHandler(this.txtNumero1_TextChanged);
             // 
             // txtNumero2
             // 
@@ -122,13 +121,14 @@
             // 
             // lblResultado
             // 
-            this.lblResultado.AutoSize = true;
+            this.lblResultado.Cursor = System.Windows.Forms.Cursors.Default;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(105, 21);
+            this.lblResultado.Location = new System.Drawing.Point(32, 27);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(423, 37);
+            this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lblResultado.Size = new System.Drawing.Size(496, 37);
             this.lblResultado.TabIndex = 9;
-            this.lblResultado.Text = "le escribo algo sino lo pierdo";
+            this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // FormCalculadora
             // 
