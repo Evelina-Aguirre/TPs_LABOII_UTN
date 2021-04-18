@@ -76,24 +76,14 @@ namespace Entidades
         {
             for (int i = 0; i < binario.Length; i++)
             {
-                //Verifico que el primer caracter no sea diferente de 0 o 1. Caso en el cual no sería necesario seguir iterando.
-                if (binario[0] != '0' && binario[0] != '1')
-                {
-                    return false;
-
-                }
-                else if (binario[i] == '0' || binario[i] == '1')
-                {
-                    return true;
-                }
-
-                /*if(binario[i] != '0' && binario[i] != '1')
+                //Pido que devuelva false y termine la función si encuentra que alguno de los valores de la cadena es diferente de 0 o de 1. 
+                if (binario[i] != '0' && binario[i] != '1')
                 {
                     return false;
                 }
-                return true;*/
+ 
             }
-            return false;
+            return true;
         }
 
         /// <summary>

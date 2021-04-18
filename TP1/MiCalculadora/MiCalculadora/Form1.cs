@@ -13,9 +13,6 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
-        private static string inputTxtBox1;
-        private static string inputTxtBox2;
-
         public FormCalculadora()
         {
             InitializeComponent();
@@ -40,8 +37,9 @@ namespace MiCalculadora
         private void btnOperar_Click(object sender, EventArgs e)
         {
             this.lblResultado.Text = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperator.Text).ToString();
-           //Habilito botones para convertir a binario solo en caso de que el valor ingresado sea mayor a 0 y diferente de null;
-            if (this.lblResultado.Text == null || this.lblResultado.Text == "0")
+          
+            //Botones para conversiones permanecen deshabilitados en caso de que el texto del labelResultado sea nulo.
+            if (this.lblResultado.Text == null)
             {
                 this.btnConvertirADecimal.Enabled = false;
                 this.btnConvertirABinario.Enabled = false;
@@ -64,7 +62,6 @@ namespace MiCalculadora
                 
             }
 
-            //VER VALIDACIONES, COMO PARA PROBAR.
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -87,7 +84,7 @@ namespace MiCalculadora
             Numero num = new Numero();
             if(!double.TryParse(lblResultado.Text, out double numeroLblResultado))
             {
-                MessageBox.Show("Error.\nPor favor ingrese valores numéricos para seguir operando.");
+                MessageBox.Show("Error.\nPor favor ingrese valores numéricos para seguir operando.");///////////////REVGISAR ESTO/////////////Tengo q controlar la ex. pero no sé en q casos la tomaría.
                 this.txtNumero1.Text = "";
                 this.txtNumero2.Text = "";
                 this.cmbOperator.SelectedIndex = 0;
