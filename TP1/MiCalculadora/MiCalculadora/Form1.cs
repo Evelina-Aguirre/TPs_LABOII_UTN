@@ -12,18 +12,32 @@ using Entidades;
 namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
-    {
+    {   /// <summary>
+        ///Initializes the components. 
+        /// </summary>
         public FormCalculadora()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// On Load the aplication set combo operator in null and disables Converts buttons.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FormCalculadora_Load(object sender, EventArgs e)
         {
             this.cmbOperator.SelectedIndex = 0;
             this.btnConvertirADecimal.Enabled = false;
             this.btnConvertirABinario.Enabled = false;
         }
+        /// <summary>
+        ///Recives two values and an operator and returns the result between the required operation.
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         private static double Operar (string numero1, string numero2, string operador)
         {
             double resultado;
@@ -33,7 +47,12 @@ namespace MiCalculadora
             return resultado;
 
         }
-
+        /// <summary>
+        ///Performs the requested calculation between two numbers and enables conversion 
+        ///buttons between bases if the result of this operation is a value greater than 0.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             this.lblResultado.Text = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperator.Text).ToString();
@@ -47,23 +66,29 @@ namespace MiCalculadora
             else
             {
                 //Compruebo que el valor del LabelResultado sea mayor a 0 para habilitar el botón de convertir a binario. 
-                double resultadoLbl = double.Parse(this.lblResultado.Text);
-                
-                if (resultadoLbl >0)
+                double resultadoLbl;
+                if (double.TryParse(this.lblResultado.Text, out resultadoLbl))
                 {
-                    this.btnConvertirADecimal.Enabled = false;
-                    this.btnConvertirABinario.Enabled = true;
-                }
-                else
-                {
-                    this.btnConvertirADecimal.Enabled = false;
-                    this.btnConvertirABinario.Enabled = false;
+                    if (resultadoLbl > 0)
+                    {
+                        this.btnConvertirADecimal.Enabled = false;
+                        this.btnConvertirABinario.Enabled = true;
+                    }
+                    else
+                    {
+                        this.btnConvertirADecimal.Enabled = false;
+                        this.btnConvertirABinario.Enabled = false;
+                    }
                 }
                 
             }
 
         }
-
+        /// <summary>
+        /// It enables the button to clear, empty, result boxes and entered values ​​in addition to disabling conversion buttons.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.txtNumero1.Text = "";
@@ -73,31 +98,34 @@ namespace MiCalculadora
             this.btnConvertirADecimal.Enabled = false;
             this.lblResultado.Text = "";
         }
-
+        /// <summary>
+        /// Close app window.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        /// <summary>
+        /// It takes the value of lblResult and converts it to Binary. Disable Decimal to Binary conversion button and enable Binary to Decimal button.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
             Numero num = new Numero();
-            if(!double.TryParse(lblResultado.Text, out double numeroLblResultado))
-            {
-                MessageBox.Show("Error.\nPor favor ingrese valores numéricos para seguir operando.");///////////////REVGISAR ESTO/////////////Tengo q controlar la ex. pero no sé en q casos la tomaría.
-                this.txtNumero1.Text = "";
-                this.txtNumero2.Text = "";
-                this.cmbOperator.SelectedIndex = 0;
-                this.btnConvertirABinario.Enabled = false;
-                this.btnConvertirADecimal.Enabled = false;
-                this.lblResultado.Text = "";
-
-            }
             this.lblResultado.Text = num.DecimalBinario(this.lblResultado.Text);
             this.btnConvertirADecimal.Enabled = true;
             this.btnConvertirABinario.Enabled = false;
         }
 
+        /// <summary>
+        /// It takes the value of lblResult and converts it to Binary. Disable Binary to Decimal conversion button and enable  Decimal to Binary button.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
             Numero num = new Numero();
@@ -106,6 +134,6 @@ namespace MiCalculadora
             this.btnConvertirABinario.Enabled = true;
         }
 
-        
+       
     }
 }

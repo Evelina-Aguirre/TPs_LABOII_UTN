@@ -3,7 +3,7 @@
     partial class FormCalculadora
     {
         /// <summary>
-        /// Variable del diseñador necesaria.
+        /// Variable del diseñador necesaria.//
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -18,6 +18,7 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
+            
         }
 
         #region Código generado por el Diseñador de Windows Forms
@@ -46,6 +47,7 @@
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(160, 44);
             this.txtNumero1.TabIndex = 0;
+       
             // 
             // txtNumero2
             // 
@@ -57,6 +59,7 @@
             // 
             // cmbOperator
             // 
+            this.cmbOperator.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOperator.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperator.FormattingEnabled = true;
             this.cmbOperator.Items.AddRange(new object[] {
@@ -65,6 +68,7 @@
             "*",
             "/"});
             this.cmbOperator.Location = new System.Drawing.Point(217, 79);
+            this.cmbOperator.MaxDropDownItems = 4;
             this.cmbOperator.Name = "cmbOperator";
             this.cmbOperator.Size = new System.Drawing.Size(121, 45);
             this.cmbOperator.TabIndex = 2;

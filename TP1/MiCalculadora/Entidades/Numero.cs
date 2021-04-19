@@ -11,14 +11,14 @@ namespace Entidades
         private double numero;
 
         /// <summary>
-        /// Constructor
+        /// Constructor Number takes 0 value.
         /// </summary>
         public Numero()
         {
             this.numero = 0;
         }
         /// <summary>
-        /// constructor takes a double value
+        /// constructor takes a double value.
         /// </summary>
         /// <param name="numero"></param>
         public Numero(double numero) : this()
@@ -27,7 +27,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// constructor takes a string value
+        /// constructor takes a string value.
         /// </summary>
         /// <param name="strNumero"></param>
         public Numero(string strNumero) : this()
@@ -36,24 +36,23 @@ namespace Entidades
         }
 
         /// <summary>
-        /// It checks that the received value is numeric, and returns it in double format. Otherwise, it returns 0.
+        /// It checks that the received value is numeric, and returns it in double format. Otherwise, it returns 0. 
         /// </summary>
         /// <param name="strNumero"></param> string value obtained by parameter.
         /// <returns></returns>
         private static double ValidarNumero(string strNumero)
         {
             double num;
-            //Pido que cambie coma por punto antes de validar que se haya ingresado un número ************ PROBAR
+           
             strNumero.Replace(",", ".");
-
+   
             if (double.TryParse(strNumero, out num))
             {
                 return num;
             }
-            else
-            {
-                return 0;
-            }
+            
+            return 0;
+            
         }
 
         /// <summary>
@@ -95,12 +94,13 @@ namespace Entidades
         {
             int ahoraDecimal = 0;
             int lengthBinario = binario.Length;
+
             if (EsBinario(binario))
             {
                 for (int i = 0; i < binario.Length; i++)
                 {
                     lengthBinario--;
-                    //Para convertirlo a decimal, elevo la base 2 al índice de las posiciones que contengan 1 y sumo los valores. 
+                    
                     if (binario[i] == '1')
                     {
                         ahoraDecimal = (int)Math.Pow(2, lengthBinario) + ahoraDecimal;
@@ -110,7 +110,7 @@ namespace Entidades
                 return ahoraDecimal.ToString();
             }
 
-            return " Valor Inválido2";
+            return " Valor Inválido";
         }
 
         /// <summary>
@@ -136,7 +136,7 @@ namespace Entidades
             }
             else
             {
-                return "Valor Inválido1";
+                return "Valor Inválido";
             }
             return ahoraBinario;
         }
