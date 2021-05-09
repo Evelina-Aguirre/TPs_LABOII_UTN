@@ -33,7 +33,7 @@ namespace TP_02_2018
             taller += c1;
             taller += c2;
             taller += m1;
-            taller += m1;
+            taller += m1;//repetido
             taller += m2;
             taller += a1;
             taller += a2;

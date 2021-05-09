@@ -11,7 +11,7 @@ namespace Entidades
     /// </summary>
     public abstract class Vehiculo
     {
-        #region "Enumerado"
+        #region "Enumerados"
         public enum EMarca
         {
             Chevrolet, Ford, Renault, Toyota, BMW, Honda, HarleyDavidson
@@ -76,7 +76,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis == v2.chasis);
+                return (v1.chasis == v2.chasis);
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
@@ -86,7 +86,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return !(v1.chasis == v2.chasis);
+                 return !(v1.chasis == v2.chasis);
         }
         #endregion
     }
