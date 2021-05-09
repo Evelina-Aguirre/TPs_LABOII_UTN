@@ -8,14 +8,27 @@ using System.Drawing;
 
 namespace Entidades
 {
-    class Sedan : Vehiculo
+    public class Sedan : Vehiculo
     {
         #region "Enumerado"
         public enum ETipo { CuatroPuertas, CincoPuertas }
         #endregion
 
-        #region "Campos"
+        #region "Atributos"
         private ETipo tipo;
+        #endregion
+
+        #region "Propiedades"
+        /// <summary>
+        /// Sedan son 'Mediano'
+        /// </summary>
+        protected override ETamanio Tamanio
+        {
+            get
+            {
+                return ETamanio.Mediano;
+            }
+        }
         #endregion
 
         #region "Contructores"
@@ -38,18 +51,7 @@ namespace Entidades
         }
         #endregion
 
-        #region "Propiedades"
-        /// <summary>
-        /// Sedan son 'Mediano'
-        /// </summary>
-        protected override ETamanio Tamanio
-        {
-            get
-            {
-                return ETamanio.Mediano;
-            }
-        }
-        #endregion
+      
 
         #region "Método Override"
         public override sealed string Mostrar()
