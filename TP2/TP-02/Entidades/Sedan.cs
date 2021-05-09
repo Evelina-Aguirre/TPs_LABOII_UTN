@@ -11,6 +11,9 @@ namespace Entidades
     public class Sedan : Vehiculo
     {
         #region "Enumerado"
+        /// <summary>
+        /// Enumerado cantidad de puestas de Sedán.
+        /// </summary>
         public enum ETipo { CuatroPuertas, CincoPuertas }
         #endregion
 
@@ -35,14 +38,21 @@ namespace Entidades
         /// <summary>
         /// Por defecto, TIPO será CuatroPuertas
         /// </summary>
-        /// <param name="marca"></param>
-        /// <param name="chasis"></param>
-        /// <param name="color"></param>
+        /// <param name="marca">Marca de Sedán</param>
+        /// <param name="chasis">Chasis de Sedán</param>
+        /// <param name="color">Color de Sedán</param>
         public Sedan(EMarca marca, string chasis, ConsoleColor color)
             : this(marca,chasis, color, ETipo.CincoPuertas)
         {    
         }
-
+        
+        /// <summary>
+        /// Crea una instancia de Sedán y agrega dato "TIPO" 
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param>
+        /// <param name="tipo"></param>
         public Sedan(EMarca marca, string chasis, ConsoleColor color, ETipo tipo)
             : base(chasis, marca, color)
         {
@@ -50,9 +60,11 @@ namespace Entidades
         }
         #endregion
 
-      
-
         #region "Método Override"
+        /// <summary>
+        /// Lista los datos de Sedán.
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

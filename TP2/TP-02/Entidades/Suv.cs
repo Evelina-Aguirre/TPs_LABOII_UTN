@@ -8,13 +8,6 @@ namespace Entidades
 {
     public class Suv : Vehiculo
     {
-        #region "Constructor"
-        public Suv(EMarca marca, string chasis, ConsoleColor color)
-            : base(chasis, marca, color)
-        {
-        }
-        #endregion
-
         #region "Propiedad"
         /// <summary>
         /// SUV son 'Grande'
@@ -28,7 +21,24 @@ namespace Entidades
         }
         #endregion
 
-        #region "Método Override"
+        #region "Constructor"
+        /// <summary>
+        /// Crea una instancia de Suv
+        /// </summary>
+        /// <param name="marca">Marca del SUV</param>
+        /// <param name="chasis">Chasis del Suv</param>
+        /// <param name="color">Color del Suv</param>
+        public Suv(EMarca marca, string chasis, ConsoleColor color)
+            : base(chasis, marca, color)
+        {
+        }
+        #endregion
+
+        #region "Método"
+        /// <summary>
+        /// Lista las datos de SUV.
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

@@ -9,6 +9,12 @@ namespace Entidades
     public class Ciclomotor : Vehiculo
     {
         #region "constructor"
+        /// <summary>
+        /// Constructor de Ciclomotor.
+        /// </summary>
+        /// <param name="marca">Marca del Ciclomotor</param>
+        /// <param name="chasis">Chasis del Ciclomotor</param>
+        /// <param name="color">Color del Ciclomotor</param>
         public Ciclomotor(EMarca marca, string chasis, ConsoleColor color)
             :base (chasis, marca, color)
         {
@@ -17,7 +23,7 @@ namespace Entidades
 
         #region "Propiedades"
         /// <summary>
-        /// Ciclomotor son 'Chico'
+        /// Ciclomotor son 'Chico'.
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -28,7 +34,11 @@ namespace Entidades
         }
         #endregion
 
-        #region "Método Override"
+        #region "Método"
+        /// <summary>
+        /// Lista datos de Ciclomotor.
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

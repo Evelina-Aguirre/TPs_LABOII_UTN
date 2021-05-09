@@ -13,7 +13,7 @@ namespace Entidades
     {
         #region "Enumerado"
         /// <summary>
-        /// Enumerado Tipo de Cehículo
+        /// Enumerado de tipo de Vehículo
         /// </summary>
         public enum ETipo
         {
@@ -22,21 +22,29 @@ namespace Entidades
         #endregion
 
         #region "Atributos"
+
         private List<Vehiculo> vehiculos;
         private int espacioDisponible;
+
         #endregion
 
         #region "Constructores"
+        /// <summary>
+        /// Constructor privado donde se inicializa la lista de vehículos.
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
-        public Taller(int espacioDisponible) :this()
+        /// <summary>
+        /// Crea instancia taller y establece espacio disponible en el mismo.
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
+        public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
         }
         #endregion
-
 
         #region "Métodos"
 
@@ -54,34 +62,36 @@ namespace Entidades
             sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
             sb.AppendLine("");
 
-                foreach (Vehiculo v in taller.vehiculos)
+            foreach (Vehiculo v in taller.vehiculos)
+            {
+                switch (tipo)
                 {
-                    switch (tipo)
-                    {
-                        case ETipo.Ciclomotor:
-                            if (v is Ciclomotor)
-                            {
-                                sb.AppendLine(v.Mostrar());
-                            }
-                            break;
-                        case ETipo.Sedan:
-                            if (v is Sedan)
-                            {
-                                sb.AppendLine(v.Mostrar());
-                            }
-                            break;
-                        case ETipo.SUV:
-                            if (v is Suv)
-                            {
-                                sb.AppendLine(v.Mostrar());
-                            }
-                            break;
-                        default:
+                    case ETipo.Ciclomotor:
+                        if (v is Ciclomotor)
+                        {
                             sb.AppendLine(v.Mostrar());
-                            break;
-                    }
+                        }
+                        break;
+
+                    case ETipo.Sedan:
+                        if (v is Sedan)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        break;
+
+                    case ETipo.SUV:
+                        if (v is Suv)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        break;
+
+                    default:
+                        sb.AppendLine(v.Mostrar());
+                        break;
                 }
-            
+            }
 
             return sb.ToString();
         }
@@ -96,7 +106,7 @@ namespace Entidades
         {
             return Taller.Listar(this, ETipo.Todos);
         }
-   
+
         /// <summary>
         /// Agregará un elemento a la lista
         /// </summary>
@@ -105,20 +115,19 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo) //revisar
         {
-            
-                if (taller.vehiculos.Count < taller.espacioDisponible)
-                {
-                    foreach (Vehiculo v in taller.vehiculos)
-                    {
-                               if (v == vehiculo)
-                                return taller;
-                        
 
-                    }
-                    taller.vehiculos.Add(vehiculo);
+            if (taller.vehiculos.Count < taller.espacioDisponible)
+            {
+                foreach (Vehiculo v in taller.vehiculos)
+                {
+                    if (v == vehiculo)
+                        return taller;
+
+
                 }
-               
-            
+                taller.vehiculos.Add(vehiculo);
+            }
+
             return taller;
         }
         /// <summary>
@@ -129,20 +138,18 @@ namespace Entidades
         /// <returns></returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
-            
-                if (taller.vehiculos.Count > 0) 
+
+            if (taller.vehiculos.Count > 0)
+            {
+                foreach (Vehiculo v in taller.vehiculos)
                 {
-                    foreach (Vehiculo v in taller.vehiculos)
+                    if (v == vehiculo)
                     {
-                        if (v == vehiculo)
-                        {
-                            taller.vehiculos.Remove(v);
-                            break;
-                        }
+                        taller.vehiculos.Remove(v);
+                        break;
                     }
                 }
-                
-            
+            }
 
             return taller;
         }
