@@ -1,6 +1,0 @@
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\bin\Debug\Entidades.dll
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.dll
-C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
