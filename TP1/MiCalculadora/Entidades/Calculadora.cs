@@ -3,7 +3,7 @@
     public static class Calculadora
     {
         /// <summary>
-        /// Valida que el char recibido sea "+,-,*,/", en cualquier otro caso devuelve "+".
+        /// Valida que el char recibido sea: "+,-,*,/", en cualquier otro caso devuelve "+".
         /// </summary>
         /// <param name="operador">Operador en formato char a validar. </param>
         /// <returns></returns>
@@ -17,8 +17,8 @@
 
 
         /// <summary>
-        /// Realiza el cálculo entre los operandos recibidos, validando previamente qué operador utilizará: 
-        /// +,-,*,/ respectivamente o '+' en caso de recibir cualquier otro valor a través del parámetro char.
+        /// Realiza el cálculo entre los operandos recibidos, validando previamente que el operador a utilizar sea  
+        /// +,-,*,/. Utilizará '+' en caso de que se haya ingresado cualquier otro valor a través del parámetro char.
         /// </summary>
         /// <param name="num1">Operando uno</param>
         /// <param name="num2">Operando dos</param>

@@ -68,12 +68,11 @@ namespace MiCalculadora
         }
 
         /// <summary>
-        /// Crea dos objetos de la clase "Operando" con los valores obtenidos por parámetro y los 
-        /// pasa al método Operar de la clase "Calculadora" para que realice el cálculo devolviendo el valor obtenido.
+        /// Realiza el cálculo entre los numeros pasados por parámetro de acuerdo al operador. 
         /// </summary>
-        /// <param name="numero1">Valor en formato string que se usará para contruir el objeto Operando</param>
-        /// <param name="numero2">Valor en formato string que se usará para contruir el objeto Operando</param>
-        /// <param name="operador">Valor en formato string que se convertirá a char previo a realizar el cálculo</param>
+        /// <param name="numero1">Primer operando</param>
+        /// <param name="numero2">Segundo operando</param>
+        /// <param name="operador">Operador que determina el cálculo a realizar</param>
         /// <returns></returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
@@ -87,6 +86,7 @@ namespace MiCalculadora
         /// <summary>
         /// Recoge los valores ingresados por los textBoxs y el comboBox, y realiza la operación solicitada,
         /// imprimiendo el resultado obtenido en el label destinado a esto y en el listBox que registra las operaciones realizadas.
+        /// Habilita el botón "Convertir a Binario" una ver realizada la operación.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -104,6 +104,7 @@ namespace MiCalculadora
             {
                 operador = this.cmbOperador.SelectedItem.ToString();
             }
+
 
             this.lblResultado.Text = Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text).ToString();
             this.btnConvertirABinario.Enabled = true;

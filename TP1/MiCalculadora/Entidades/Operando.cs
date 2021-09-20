@@ -7,13 +7,18 @@ namespace Entidades
         private double numero;
 
         //CONTRUCTORES
+
+        /// <summary>
+        /// Inicializa atributo número a cero.
+        /// </summary>
         public Operando()
         {
             this.numero = 0;
         }
 
         /// <summary>
-        /// Llama a la propiedad Numero para validar que el string recibido puede ser convertido a formato double antes de intentar asignarlo al atributo.
+        /// Convierte el string recibido a su equivalente en formato double o lo vuelve a igualar a 0 en caso de no poder hacerlo
+        /// y lo carga en "número".
         /// </summary>
         /// <param name="numero"></param>
         public Operando(string numero) : this()
@@ -25,7 +30,7 @@ namespace Entidades
 
 
         /// <summary>
-        /// Valida que el valor recibido esté en formato numérico antes de asignarlo al atributo.
+        /// Convierte el string recibido a su equivalente en formato double o lo iguala a 0 de no poder hacerlo, previo a asignar el valor al atributo.
         /// </summary>
         public string Numero
         {
@@ -36,7 +41,7 @@ namespace Entidades
         }
 
         /// <summary>
-        ///Trata de convertir la cadena recibida por parámetro a un valor doble, devuelve 0 en caso de no poder hacerlo.
+        ///Devuelve el string recibido convertido a su equivalente en formato double o lo iguala a 0 en caso de no poder hacerlo.
         /// </summary>
         /// <param name="strNumero">String value obtained by parameter</param>
         /// <returns></returns>
@@ -67,7 +72,7 @@ namespace Entidades
 
         /// <summary>
         /// Convierte un número Binario en su equivalente decimal.
-        /// Informa "Valor Inválido" en caso de que el valor introducido no esté compuesto por unos y ceros. 
+        /// Informa "Valor Inválido" en caso de que lo introducido no esté compuesto por unos y ceros. 
         /// </summary>
         /// <param name="binario">Cadena numerica a convertir a binario.</param>
         /// <returns></returns>
@@ -92,8 +97,8 @@ namespace Entidades
             return "Valor Inválido";
         }
         /// <summary>
-        ///Convierte la parte entera del numero recibido por parámetro en su equivalente binario devolviendolo en formato string.
-        ///Valida previamente que el número que recibe no sea negativo, de serlo informa que el valor es inválido.
+        ///Convierte la parte entera del numero recibido por parámetro a su equivalente binario devolviendolo en formato string.
+        ///Valida previamente que el número que recibe no sea negativo, de serlo informa que es inválido.
         /// </summary>
         /// <param name="numero">Número a convertir a binario.</param>
         /// <returns></returns>
@@ -119,7 +124,7 @@ namespace Entidades
 
         /// <summary>
         /// Sobrecarga del método "DecimaBinario" que admite recibir una cadena numérica en formato string
-        /// validando que la misma pueda pasarse a formato double. De no poder hacerlo informa "Valor Inválido".
+        /// validando que la misma pueda ser convertida a double y la pasa a binario. De no poder hacerlo informa "Valor Inválido".
         /// </summary>
         /// <param name="numero"></param>
         /// <returns></returns>
