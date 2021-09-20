@@ -3,26 +3,33 @@
     public static class Calculadora
     {
         /// <summary>
-        /// Validates thar the recived char is "+,-,*,/", in any other case it retuns "+".
+        /// Valida que el char recibido sea "+,-,*,/", en cualquier otro caso devuelve "+".
         /// </summary>
-        /// <param name="operador"> Operator in char format to be validated </param>
+        /// <param name="operador">Operador en formato char a validar. </param>
         /// <returns></returns>
         private static char ValidarOperador(char operador)
         {
-            if (!char.IsWhiteSpace(operador))
-            {
-                if (operador == '-' || operador == '/' || operador == '*')
-                    return operador;
-            }
-            return '+';
+            if (operador == '-' || operador == '/' || operador == '*')
+                return operador;
+            else
+                return '+';
         }
 
+
+        /// <summary>
+        /// Realiza el cálculo entre los operandos recibidos, validando previamente qué operador utilizará: 
+        /// +,-,*,/ respectivamente o '+' en caso de recibir cualquier otro valor a través del parámetro char.
+        /// </summary>
+        /// <param name="num1">Operando uno</param>
+        /// <param name="num2">Operando dos</param>
+        /// <param name="operador">Operador</param>
+        /// <returns></returns>
         public static double Operar(Operando num1, Operando num2, char operador)
         {
             char operadorValidado = ValidarOperador(operador);
             double resultado = 0;
 
-            switch(operadorValidado)
+            switch (operadorValidado)
             {
                 case '+':
                     resultado = num1 + num2;
@@ -34,10 +41,7 @@
                     resultado = num1 * num2;
                     break;
                 case '/':
-                    if(num2 != null)
-                    {
-                        resultado =  num1 / num2;
-                    }
+                    resultado = num1 / num2;
                     break;
             }
 
