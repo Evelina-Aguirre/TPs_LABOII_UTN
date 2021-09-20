@@ -9,7 +9,7 @@ namespace Entidades
         //CONTRUCTORES
 
         /// <summary>
-        /// Inicializa atributo número a cero.
+        /// Inicializa atributo número en cero.
         /// </summary>
         public Operando()
         {

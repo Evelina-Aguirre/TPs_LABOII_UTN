@@ -47,7 +47,7 @@ namespace MiCalculadora
 
         /// <summary>
         /// Carga el formulario, con los espacios TextBox, ComboBox y Label en blanco y los botones de converción Binario-Decimal/Decimal-Binario
-        /// Deshabilitados.
+        /// deshabilitados.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
