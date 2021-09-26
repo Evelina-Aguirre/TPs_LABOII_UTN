@@ -8,12 +8,22 @@ namespace Entidades
 {
     public class Suv :Vehiculo
     {
+        #region Contructor
+        /// <summary>
+        /// Constructor de SUV.
+        /// </summary>
+        /// <param name="marca">Marca del SUV</param>
+        /// <param name="chasis">Chasis del SUV</param>
+        /// <param name="color">Color del SUV</param>
         public Suv(EMarca marca, string chasis, ConsoleColor color)
             : base(marca,chasis, color)
         {
         }
+        #endregion
+
+        #region Propiedad
         /// <summary>
-        /// SUV son 'Grande'
+        /// Informa que los SUVs serán tamaño grande.
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -22,7 +32,13 @@ namespace Entidades
                 return ETamanio.Grande;
             }
         }
+        #endregion
 
+        #region Sobreescritura Método 'Mostrar'
+        /// <summary>
+        /// Lista las carácterísticas de SUV.
+        /// </summary>
+        /// <returns>Cadena con los datos del SUV.</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -34,5 +50,6 @@ namespace Entidades
 
             return sb.ToString();
         }
+        #endregion
     }
 }

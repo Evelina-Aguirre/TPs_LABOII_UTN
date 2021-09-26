@@ -6,24 +6,36 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    /// <summary>
-    /// La clase Vehiculo no deberá permitir que se instancien elementos de este tipo.
-    /// </summary>
     public abstract class Vehiculo
     {
+        #region Enumerados
+        /// <summary>
+        /// Enumerado que limita las opciones de "Marca" del vehículo.
+        /// </summary>
         public enum EMarca
         {
             Chevrolet, Ford, Renault, Toyota, BMW, Honda, HarleyDavidson
         }
+
+        /// <summary>
+        /// Enumerado que limita las opciones de tamaño del vehículo.
+        /// </summary>
         protected enum ETamanio
         {
             Chico, Mediano, Grande
         }
+        #endregion
 
+        #region Propiedades
+        /// <summary>
+        /// Propiedades que tendrán todos los vehículos.
+        /// </summary>
         private EMarca marca;
         private string chasis;
         private ConsoleColor color;
+        #endregion
 
+        #region Constructor
         /// <summary>
         /// Constructor vehículo.
         /// </summary>
@@ -36,12 +48,17 @@ namespace Entidades
             this.chasis = chasis;
             this.color = color;
         }
+        #endregion
 
+        #region Propiedad
         /// <summary>
-        /// ReadOnly: Retornará el tamaño
+        /// Solo lectura. Impone a las clases derivadas sobreescribirlo
+        /// permitiendo gettear el tamaño del vehículo.
         /// </summary>
         protected abstract ETamanio Tamanio { get; }
+        #endregion
 
+        #region Método
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
@@ -50,7 +67,13 @@ namespace Entidades
         {
             return (string)this;  
         }
+        #endregion
 
+        #region Sobrecarga de operadores
+        /// <summary>
+        /// Permite Listar las carácterísticas base de un vehículo.
+        /// </summary>
+        /// <param name="p">Vehículo del cual tomará los datos a listar.</param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
@@ -66,24 +89,25 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Dos vehiculos son iguales si comparten el mismo chasis
+        /// Dos vehiculos son iguales si comparten el mismo chasis.
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
-        /// <returns></returns>
+        /// <param name="v1">Primer vehículo a comparar.</param>
+        /// <param name="v2">Segundo vehículo a comparar.</param>
+        /// <returns>true si los chasis comparados son iguales</returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
             return v1.chasis == v2.chasis;
         }
         /// <summary>
-        /// Dos vehiculos son distintos si su chasis es distinto
+        /// Dos vehiculos son distintos si su chasis es distintos.
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
-        /// <returns></returns>
+        /// <param name="v1">Primer vehículo a comparar.</param>
+        /// <param name="v2">Segundo vehículo a comparar.</param>
+        /// <returns>true si los chasis comparados son diferentes.</returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
             return !(v1 == v2);
         }
+        #endregion
     }
 }

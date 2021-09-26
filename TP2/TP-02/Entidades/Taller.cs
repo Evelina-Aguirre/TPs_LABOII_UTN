@@ -3,32 +3,47 @@ using System.Text;
 
 namespace Entidades
 {
-    /// <summary>
-    /// No podrá tener clases heredadas.
-    /// </summary>
     public sealed class Taller
     {
+        #region Propiedades
+        /// <summary>
+        /// Porpiedades de taller.
+        /// </summary>
         List<Vehiculo> vehiculos;
         int espacioDisponible;
+        #endregion
+
+        #region Enumerado
+        /// <summary>
+        /// Enumerado de talles que limita las posibilidades de tipo.
+        /// </summary>
         public enum ETipo
         {
             Ciclomotor, Sedan, SUV, Todos
         }
+        #endregion
 
         #region "Constructores"
+        /// <summary>
+        /// Contructor de taller. Inicializa lista de vehículos.
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+        /// <summary>
+        /// Constructor de taller.
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
         }
         #endregion
 
-        #region "Sobrecargas"
+        #region "Sobrecarga"
         /// <summary>
-        /// Muestro el estacionamiento y TODOS los vehículos
+        /// Muestro el estacionamiento y todos los vehículos.
         /// </summary>
         /// <returns></returns>
         public override string ToString()
@@ -41,7 +56,7 @@ namespace Entidades
 
         /// <summary>
         /// Expone los datos del elemento y su lista (incluidas sus herencias)
-        /// SOLO del tipo requerido
+        /// Sólo del tipo requerido.
         /// </summary>
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
@@ -83,10 +98,10 @@ namespace Entidades
 
         #region "Operadores"
         /// <summary>
-        /// Agregará un elemento a la lista
+        /// Agregará un elemento a la lista.
         /// </summary>
-        /// <param name="taller">Objeto donde se agregará el elemento</param>
-        /// <param name="vehiculo">Objeto a agregar</param>
+        /// <param name="taller">Objeto donde se agregará el elemento.</param>
+        /// <param name="vehiculo">Objeto a agregar.</param>
         /// <returns></returns>
         public static Taller operator +(Taller t, Vehiculo vehiculo)
         {
@@ -103,10 +118,10 @@ namespace Entidades
             return t;
         }
         /// <summary>
-        /// Quitará un elemento de la lista
+        /// Quitará un elemento de la lista.
         /// </summary>
-        /// <param name="taller">Objeto donde se quitará el elemento</param>
-        /// <param name="vehiculo">Objeto a quitar</param>
+        /// <param name="taller">Objeto donde se quitará el elemento.</param>
+        /// <param name="vehiculo">Objeto a quitar.</param>
         /// <returns></returns>
         public static Taller operator -(Taller t, Vehiculo vehiculo)
         {

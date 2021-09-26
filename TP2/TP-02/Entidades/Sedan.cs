@@ -10,11 +10,19 @@ namespace Entidades
 {
     public class Sedan : Vehiculo
     {
+
+        #region Atributos
+        /// <summary>
+        /// Atributos que se sumarán a la base dándole carácterísticas 
+        /// propias a la clase Sedán.
+        /// </summary>
         public enum ETipo { CuatroPuertas, CincoPuertas }
         ETipo tipo;
+        #endregion
 
+        #region Constructores
         /// <summary>
-        /// Por defecto, TIPO será CuatroPuertas
+        /// Constructor de Sedán.
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
@@ -25,13 +33,22 @@ namespace Entidades
             this.tipo = tipo;
         }
 
+        /// <summary>
+        /// Constructor de Sedán. Establece por defecto que al menos que se indique lo contrario, 
+        /// será de cuatro puertas.
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param>
         public Sedan(EMarca marca, string chasis, ConsoleColor color)
            : this(marca, chasis, color, ETipo.CuatroPuertas)
         {
         }
+        #endregion
 
+        #region Propiedad
         /// <summary>
-        /// Sedan son 'Mediano'
+        /// Agrega la propiedad a Sedán 'tamaño mediano'.
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -40,7 +57,14 @@ namespace Entidades
                 return ETamanio.Mediano;
             }
         }
-
+        #endregion
+        
+        #region Sobreescritura Método 'Mostrar' heredado de Vehículo
+        /// <summary>
+        /// Agrega al conjunto de strings que detalla las carácterísticas de la base, 
+        /// el tipo de Sedan del que se trata.
+        /// </summary>
+        /// <returns>Cadena que detalla las carácterísticas de Sedán</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -53,5 +77,7 @@ namespace Entidades
 
             return sb.ToString(); ;
         }
+        #endregion
+
     }
 }
