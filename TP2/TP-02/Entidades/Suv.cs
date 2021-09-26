@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Suv :Vehiculo
+    public class Suv : Vehiculo
     {
         #region Contructor
         /// <summary>
@@ -16,7 +13,7 @@ namespace Entidades
         /// <param name="chasis">Chasis del SUV</param>
         /// <param name="color">Color del SUV</param>
         public Suv(EMarca marca, string chasis, ConsoleColor color)
-            : base(marca,chasis, color)
+            : base(marca, chasis, color)
         {
         }
         #endregion
@@ -44,7 +41,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("SUV");
-            sb.AppendLine(base.Mostrar());  
+            sb.AppendLine(base.Mostrar());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

@@ -13,15 +13,17 @@ namespace Entidades
         int espacioDisponible;
         #endregion
 
+
         #region Enumerado
         /// <summary>
-        /// Enumerado de talles que limita las posibilidades de tipo.
+        /// Enumerado de taller que limita las posibilidades de tipo.
         /// </summary>
         public enum ETipo
         {
             Ciclomotor, Sedan, SUV, Todos
         }
         #endregion
+
 
         #region "Constructores"
         /// <summary>
@@ -31,15 +33,17 @@ namespace Entidades
         {
             this.vehiculos = new List<Vehiculo>();
         }
+
         /// <summary>
         /// Constructor de taller.
         /// </summary>
-        /// <param name="espacioDisponible"></param>
+        /// <param name="espacioDisponible">numero entero determinará espacio disponible en taller</param>
         public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
         }
         #endregion
+
 
         #region "Sobrecarga"
         /// <summary>
@@ -52,6 +56,7 @@ namespace Entidades
         }
         #endregion
 
+
         #region "Métodos"
 
         /// <summary>
@@ -60,7 +65,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
-        /// <returns></returns>
+        /// <returns>Cadena detallando los datos del vehículo solicitado</returns>
         public static string Listar(Taller t, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
@@ -72,18 +77,18 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.Ciclomotor:
-                        if(v is Ciclomotor)
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Ciclomotor)
+                            sb.AppendLine(v.Mostrar());
                         break;
 
                     case ETipo.Sedan:
-                        if(v is Sedan)
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Sedan)
+                            sb.AppendLine(v.Mostrar());
                         break;
 
                     case ETipo.SUV:
-                        if(v is Suv)
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Suv)
+                            sb.AppendLine(v.Mostrar());
                         break;
 
                     default:
@@ -95,6 +100,7 @@ namespace Entidades
             return sb.ToString();
         }
         #endregion
+
 
         #region "Operadores"
         /// <summary>
@@ -114,9 +120,10 @@ namespace Entidades
                 }
                 t.vehiculos.Add(vehiculo);
             }
-            
+
             return t;
         }
+
         /// <summary>
         /// Quitará un elemento de la lista.
         /// </summary>

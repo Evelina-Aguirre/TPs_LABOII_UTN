@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
@@ -16,10 +13,11 @@ namespace Entidades
         /// <param name="chasis">Chasis del ciclomotor</param>
         /// <param name="color">Color del Ciclomotor</param>
         public Ciclomotor(EMarca marca, string chasis, ConsoleColor color)
-            :base (marca, chasis, color)
+            : base(marca, chasis, color)
         {
         }
         #endregion
+
 
         #region Propiedad
         /// <summary>
@@ -34,11 +32,12 @@ namespace Entidades
         }
         #endregion
 
-        #region Sobreescritura Método 'Mostrar' heredado de Vehículo 
+
+        #region Sobreescritura Método 'Mostrar' 
         /// <summary>
         /// Lista las carácterísticas de Ciclomotor.
         /// </summary>
-        /// <returns> Cadena que detalla las carácterísticas de Ciclomotor. </returns>
+        /// <returns> Cadena que detalla los datos de Ciclomotor. </returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

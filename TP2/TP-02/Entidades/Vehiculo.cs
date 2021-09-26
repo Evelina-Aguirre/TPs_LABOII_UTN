@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Entidades
 {
@@ -26,6 +23,7 @@ namespace Entidades
         }
         #endregion
 
+
         #region Propiedades
         /// <summary>
         /// Propiedades que tendrán todos los vehículos.
@@ -34,6 +32,7 @@ namespace Entidades
         private string chasis;
         private ConsoleColor color;
         #endregion
+
 
         #region Constructor
         /// <summary>
@@ -50,6 +49,7 @@ namespace Entidades
         }
         #endregion
 
+
         #region Propiedad
         /// <summary>
         /// Solo lectura. Impone a las clases derivadas sobreescribirlo
@@ -58,6 +58,7 @@ namespace Entidades
         protected abstract ETamanio Tamanio { get; }
         #endregion
 
+
         #region Método
         /// <summary>
         /// Publica todos los datos del Vehiculo.
@@ -65,9 +66,10 @@ namespace Entidades
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            return (string)this;  
+            return (string)this;
         }
         #endregion
+
 
         #region Sobrecarga de operadores
         /// <summary>
@@ -83,7 +85,7 @@ namespace Entidades
             sb.AppendFormat("MARCA : {0}\r\n", p.marca);
             sb.AppendFormat("COLOR : {0}\r\n", p.color);
             sb.AppendFormat("TAMAÑO : {0}\r", p.Tamanio);
-            
+
 
             return sb.ToString();
         }
@@ -109,5 +111,6 @@ namespace Entidades
             return !(v1 == v2);
         }
         #endregion
+
     }
 }

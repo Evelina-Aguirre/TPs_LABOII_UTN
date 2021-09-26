@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
-using System.Drawing;
 
 namespace Entidades
 {
@@ -20,15 +15,16 @@ namespace Entidades
         ETipo tipo;
         #endregion
 
+
         #region Constructores
         /// <summary>
         /// Constructor de Sedán.
         /// </summary>
-        /// <param name="marca"></param>
-        /// <param name="chasis"></param>
-        /// <param name="color"></param>
-        public Sedan(EMarca marca, string chasis, ConsoleColor color,ETipo tipo)
-            : base(marca,chasis,color)
+        /// <param name="marca">Marca del Sedán</param>
+        /// <param name="chasis">Chasis del Sedán</param>
+        /// <param name="color">Color del Sedán</param>
+        public Sedan(EMarca marca, string chasis, ConsoleColor color, ETipo tipo)
+            : base(marca, chasis, color)
         {
             this.tipo = tipo;
         }
@@ -37,14 +33,15 @@ namespace Entidades
         /// Constructor de Sedán. Establece por defecto que al menos que se indique lo contrario, 
         /// será de cuatro puertas.
         /// </summary>
-        /// <param name="marca"></param>
-        /// <param name="chasis"></param>
-        /// <param name="color"></param>
+        /// <param name="marca">Marca del Sedán</param>
+        /// <param name="chasis">Chasis del Sedán</param>
+        /// <param name="color">Color del Sedán</param>
         public Sedan(EMarca marca, string chasis, ConsoleColor color)
            : this(marca, chasis, color, ETipo.CuatroPuertas)
         {
         }
         #endregion
+
 
         #region Propiedad
         /// <summary>
@@ -58,13 +55,14 @@ namespace Entidades
             }
         }
         #endregion
-        
-        #region Sobreescritura Método 'Mostrar' heredado de Vehículo
+
+
+        #region Sobreescritura Método 'Mostrar'
         /// <summary>
         /// Agrega al conjunto de strings que detalla las carácterísticas de la base, 
         /// el tipo de Sedan del que se trata.
         /// </summary>
-        /// <returns>Cadena que detalla las carácterísticas de Sedán</returns>
+        /// <returns>Cadena que detallando los datos de Sedán</returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
