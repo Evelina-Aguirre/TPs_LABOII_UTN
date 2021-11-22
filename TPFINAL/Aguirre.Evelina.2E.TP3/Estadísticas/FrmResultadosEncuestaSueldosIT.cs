@@ -17,8 +17,6 @@ namespace Estadísticas
         
 
         int m, mx, my;
-        private System.ComponentModel.IContainer components = null;
-        System.Windows.Forms.DataVisualization.Charting.Chart chart1;
 
         public static string consultaActual = string.Empty;
 
@@ -34,11 +32,6 @@ namespace Estadísticas
             MessageBox.Show("No se encontraron coincidencias con la búsqueda");
         }
 
-        private double f(int i)
-        {
-            var f1 = 59894 - (8128 * i) + (262 * i * i) - (1.6 * i * i * i);
-            return f1;
-        }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
@@ -50,26 +43,7 @@ namespace Estadísticas
             Limpiar();
             CargarComboboxes();
             dgDatos.DataSource = null;
-            dgDatos.DataSource = ConexionDB.TraerResultadoEncuestas();
-
-
-            //chart1.Series.Clear();
-            //var series1 = new System.Windows.Forms.DataVisualization.Charting.Series
-            //{
-            //    Name = "series1",
-            //    Color = System.Drawing.Color.Green,
-            //    IsVisibleInLegend = true,
-            //    IsXValueIndexed = true,
-            //    ChartType = SeriesChartType.Pie
-            //};
-
-            //this.chart1.Series.Add(series1);
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    series1.Points.AddXY(i, f(i));
-            //}
-            //chart1.Invalidate();
+            dgDatos.DataSource = ConexionDB.TraerResultadoEncuestas(); 
         }
 
         private void lnklbCerrar_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -261,202 +235,7 @@ namespace Estadísticas
 
         }
 
-        private void DehabilitarCheckbox()
-        {
-            if (chkSeIdentifica.Checked)
-            {
-                chkSeIdentifica.Enabled = true;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-
-            }
-            else if (chkEdad.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = true;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-            }
-
-            else if (chkProvincia.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = true;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-
-            }
-
-            else if (chkExperiencia.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = true;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-
-
-            }
-
-            else if (chkPersonalACargo.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = true;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-
-            }
-
-            else if (chkNivelEstudios.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = true;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-
-
-            }
-
-            else if (chkPuesto.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = true;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-            }
-
-            else if (chkJornada.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = true;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-            }
-
-            else if (chkSalario.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = true;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = false;
-
-            }
-
-            else if (chkRubro.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = true;
-                chkRecomienda.Enabled = false;
-
-            }
-
-            else if (chkRecomienda.Checked)
-            {
-
-                chkSeIdentifica.Enabled = false;
-                chkEdad.Enabled = false;
-                chkProvincia.Enabled = false;
-                chkExperiencia.Enabled = false;
-                chkPersonalACargo.Enabled = false;
-                chkNivelEstudios.Enabled = false;
-                chkPuesto.Enabled = false;
-                chkJornada.Enabled = false;
-                chkSalario.Enabled = false;
-                chkRubro.Enabled = false;
-                chkRecomienda.Enabled = true;
-
-
-            }
-
-        }
+       
 
         private void button3_Click(object sender, EventArgs e)
         {

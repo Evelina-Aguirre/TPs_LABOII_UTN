@@ -31,16 +31,13 @@ namespace EstadisticasEntidades
             for (int i = 0; i < listaEncuestas.Count; i++)
             {
                 if(auxString == listaEncuestas[i].Se_Identifica 
-                    //|| int.Parse(auxString) == listaEncuestas[i].Edad 
+                   
                     || auxString == listaEncuestas[i].Provincia 
-                    //|| int.Parse(auxString) == listaEncuestas[i].Experiencia
-                    //|| int.Parse(auxString) == listaEncuestas[i].Personal_a_Cargo
                     || auxString == listaEncuestas[i].Nivel_Estudios
                     || auxString == listaEncuestas[i].Puesto
                     || auxString == listaEncuestas[i].Jornada
-                    //|| int.Parse(auxString) == listaEncuestas[i].Salario_Bruto
                     || auxString == listaEncuestas[i].Rubro
-                    //|| int.Parse(auxString) == listaEncuestas[i].Recomienda_Empresa
+                    
                     )
                 {
                     listaSolicitada.Add(listaEncuestas[i]);
@@ -172,126 +169,6 @@ namespace EstadisticasEntidades
 
         }
 
-        ///// <summary>
-        ///// Busca encuesta por Sexo
-        ///// </summary>
-        ///// <param name="listaEncuestas"></param>
-        ///// <param name="auxString"></param>
-        ///// <returns>lista nula o cargada con los valores pedidos</returns>
-        //public static List<Encuesta> BuscarPorSexo(List<Encuesta> listaEncuestas, string auxString)
-        //{
-        //    List<Encuesta> listaSolicitada = null;
-        //    listaSolicitada = new List<Encuesta>();
-
-        //    for (int i = 0; i < listaEncuestas.Count; i++)
-        //    {
-        //        if (auxString == listaEncuestas[i].Se_Identifica)
-        //        {
-        //            listaSolicitada.Add(listaEncuestas[i]);
-        //        }
-
-        //    }
-
-        //    return listaSolicitada;
-
-        //}
-
         
-
-        /// <summary>
-        /// Busca encuesta por Sexo
-        /// </summary>
-        /// <param name="listaEncuestas"></param>
-        /// <param name="auxString"></param>
-        /// <returns>lista nula o cargada con los valores pedidos</returns>
-        //public static List<Encuesta> BuscarPorEdad(List<Encuesta> listaEncuestas, Enumerados.EEdad edad)
-        //{
-        //    List<Encuesta> listaSolicitada = null;
-        //    listaSolicitada = new List<Encuesta>();
-
-        //    for (int i = 0; i < listaEncuestas.Count; i++)
-        //    {
-        //        if (edad. == listaEncuestas[i].Edad)
-        //        {
-        //            listaSolicitada.Add(listaEncuestas[i]);
-        //        }
-
-        //    }
-
-        //    return listaSolicitada;
-
-        //}
-
-        ///// <summary>
-        ///// Busca encuesta por Sexo
-        ///// </summary>
-        ///// <param name="listaEncuestas"></param>
-        ///// <param name="auxString"></param>
-        ///// <returns>lista nula o cargada con los valores pedidos</returns>
-        //public static List<Encuesta> BuscarPorSexo(List<Encuesta> listaEncuestas, string auxString)
-        //{
-        //    List<Encuesta> listaSolicitada = null;
-        //    listaSolicitada = new List<Encuesta>();
-
-        //    for (int i = 0; i < listaEncuestas.Count; i++)
-        //    {
-        //        if (auxString == listaEncuestas[i].Se_Identifica)
-        //        {
-        //            listaSolicitada.Add(listaEncuestas[i]);
-        //        }
-
-        //    }
-
-        //    return listaSolicitada;
-
-        //}
-
-        ///// <summary>
-        ///// Busca encuesta por Sexo
-        ///// </summary>
-        ///// <param name="listaEncuestas"></param>
-        ///// <param name="auxString"></param>
-        ///// <returns>lista nula o cargada con los valores pedidos</returns>
-        //public static List<Encuesta> BuscarPorSexo(List<Encuesta> listaEncuestas, string auxString)
-        //{
-        //    List<Encuesta> listaSolicitada = null;
-        //    listaSolicitada = new List<Encuesta>();
-
-        //    for (int i = 0; i < listaEncuestas.Count; i++)
-        //    {
-        //        if (auxString == listaEncuestas[i].Se_Identifica)
-        //        {
-        //            listaSolicitada.Add(listaEncuestas[i]);
-        //        }
-
-        //    }
-
-        //    return listaSolicitada;
-
-        //}
-
-        ///// <summary>
-        ///// Busca encuesta por Sexo
-        ///// </summary>
-        ///// <param name="listaEncuestas"></param>
-        ///// <param name="auxString"></param>
-        ///// <returns>lista nula o cargada con los valores pedidos</returns>
-        //public static List<Encuesta> BuscarPorSexo(List<Encuesta> listaEncuestas, string auxString)
-        //{
-        //    List<Encuesta> listaSolicitada = null;
-        //    listaSolicitada = new List<Encuesta>();
-
-        //    for (int i = 0; i < listaEncuestas.Count; i++)
-        //    {
-        //        if (auxString == listaEncuestas[i].Se_Identifica)
-        //        {
-        //            listaSolicitada.Add(listaEncuestas[i]);
-        //        }
-
-        //    }
-
-        //    return listaSolicitada;
-
-        //}
     }
 }

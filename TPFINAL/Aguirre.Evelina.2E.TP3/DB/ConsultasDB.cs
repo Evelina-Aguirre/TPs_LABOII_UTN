@@ -1,5 +1,6 @@
 ﻿using System.Data.SqlClient;
 using EstadisticasEntidades;
+using Excepciones;
 
 namespace EstadisticasEntidades
 {

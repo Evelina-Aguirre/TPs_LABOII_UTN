@@ -4628,11 +4628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\COPIA SEGURIDAD TP3\\Aguirre.Evelina.2E.TP3\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TPFINAL\\Aguirre.Evelina.2E.TP3\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\COPIA SEGURIDAD TP3\\Aguirre.Evelina.2E.TP3\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TPFINAL\\Aguirre.Evelina.2E.TP3\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\COPIA SEGURIDAD TP3\\Aguirre.Evelina.2E.TP3\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TPFINAL\\Aguirre.Evelina.2E.TP3\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

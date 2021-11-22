@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLeEMxPDIaELh/qdLH9iuHfJgqFLyDMV2TZTTwI/1GzU8d/FWzlQcTQDsM3Xiqdn7bZaFLiVS8i6yoBHPLUizA==",
+  "dgSpecHash": "fLKycjY1jVnWocBr2wzNbqAHuXhB57bzLRzOAL8h+JBfP+TpshHWIwM9bx9eKAK3SeLd1rqLrR8kDpTyhgp3bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\COPIA SEGURIDAD TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TPFINAL\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
