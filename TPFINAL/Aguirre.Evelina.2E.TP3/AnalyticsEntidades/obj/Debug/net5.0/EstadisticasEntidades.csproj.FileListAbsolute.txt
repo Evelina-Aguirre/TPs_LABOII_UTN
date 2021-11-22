@@ -28,3 +28,18 @@ C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Analyti
 C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.dll
 C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\ref\EstadisticasEntidades.dll
 C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\EstadisticasEntidades.deps.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\ref\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\ref\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\EstadisticasEntidades.pdb

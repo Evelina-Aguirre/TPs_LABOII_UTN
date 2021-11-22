@@ -17,6 +17,8 @@ namespace Estadísticas
         
 
         int m, mx, my;
+        private System.ComponentModel.IContainer components = null;
+        System.Windows.Forms.DataVisualization.Charting.Chart chart1;
 
         public static string consultaActual = string.Empty;
 
@@ -235,7 +237,202 @@ namespace Estadísticas
 
         }
 
-       
+        private void DehabilitarCheckbox()
+        {
+            if (chkSeIdentifica.Checked)
+            {
+                chkSeIdentifica.Enabled = true;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+
+            }
+            else if (chkEdad.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = true;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+            }
+
+            else if (chkProvincia.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = true;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+
+            }
+
+            else if (chkExperiencia.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = true;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+
+
+            }
+
+            else if (chkPersonalACargo.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = true;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+
+            }
+
+            else if (chkNivelEstudios.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = true;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+
+
+            }
+
+            else if (chkPuesto.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = true;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+            }
+
+            else if (chkJornada.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = true;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+            }
+
+            else if (chkSalario.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = true;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = false;
+
+            }
+
+            else if (chkRubro.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = true;
+                chkRecomienda.Enabled = false;
+
+            }
+
+            else if (chkRecomienda.Checked)
+            {
+
+                chkSeIdentifica.Enabled = false;
+                chkEdad.Enabled = false;
+                chkProvincia.Enabled = false;
+                chkExperiencia.Enabled = false;
+                chkPersonalACargo.Enabled = false;
+                chkNivelEstudios.Enabled = false;
+                chkPuesto.Enabled = false;
+                chkJornada.Enabled = false;
+                chkSalario.Enabled = false;
+                chkRubro.Enabled = false;
+                chkRecomienda.Enabled = true;
+
+
+            }
+
+        }
 
         private void button3_Click(object sender, EventArgs e)
         {
