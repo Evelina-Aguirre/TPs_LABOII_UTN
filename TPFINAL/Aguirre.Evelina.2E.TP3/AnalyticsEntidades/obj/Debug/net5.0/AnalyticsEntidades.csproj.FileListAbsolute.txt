@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\AnalyticsEntidades.deps.json
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\AnalyticsEntidades.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\ref\AnalyticsEntidades.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\AnalyticsEntidades.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.csproj.CopyComplete
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\ref\AnalyticsEntidades.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\AnalyticsEntidades\obj\Debug\net5.0\AnalyticsEntidades.pdb
