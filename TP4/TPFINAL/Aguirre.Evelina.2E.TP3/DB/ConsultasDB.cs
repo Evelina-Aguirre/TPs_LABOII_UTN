@@ -73,7 +73,7 @@ namespace EstadisticasEntidades
             catch
             {
                 totalRegistrosSegunConsulta = 0;
-                //ceroRegistrosEvento.Invoke();
+                
             }
             finally
             {
