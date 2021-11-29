@@ -31,7 +31,17 @@ namespace charts4
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UI_AnalisisEncuestas));
+            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
@@ -113,6 +123,8 @@ namespace charts4
             this.lblBrechaSalarial = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label26 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgDatos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -120,6 +132,39 @@ namespace charts4
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
+            // 
+            // chart1
+            // 
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
+            this.chart1.Location = new System.Drawing.Point(943, 25);
+            this.chart1.Name = "chart1";
+            series1.ChartArea = "ChartArea1";
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.chart1.Series.Add(series1);
+            this.chart1.Size = new System.Drawing.Size(400, 372);
+            this.chart1.TabIndex = 1;
+            this.chart1.Text = "chart1";
+            // 
+            // chart2
+            // 
+            chartArea2.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.chart2.Legends.Add(legend2);
+            this.chart2.Location = new System.Drawing.Point(943, 423);
+            this.chart2.Name = "chart2";
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart2.Series.Add(series2);
+            this.chart2.Size = new System.Drawing.Size(400, 387);
+            this.chart2.TabIndex = 2;
+            this.chart2.Text = "chart2";
+
             // 
             // label22
             // 
@@ -1063,6 +1108,8 @@ namespace charts4
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(25)))), ((int)(((byte)(74)))));
             this.ClientSize = new System.Drawing.Size(1386, 915);
+            this.Controls.Add(this.chart2);
+            this.Controls.Add(this.chart1);
             this.Controls.Add(this.label26);
             this.Controls.Add(this.label25);
             this.Controls.Add(this.lblBrechaSalarial);
@@ -1155,6 +1202,9 @@ namespace charts4
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.UI_AnalisisEncuestas_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.UI_AnalisisEncuestas_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.UI_AnalisisEncuestas_MouseUp);
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart2)).EndInit();
+
             ((System.ComponentModel.ISupportInitialize)(this.dgDatos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
