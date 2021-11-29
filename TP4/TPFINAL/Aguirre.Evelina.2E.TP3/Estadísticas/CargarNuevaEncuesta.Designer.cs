@@ -361,6 +361,7 @@ namespace UserInterfaz
             this.Controls.Add(this.lnklbMinimizar);
             this.Controls.Add(this.lnklbCerrar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CargarNuevaEncuesta";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CargarNuevaEncuesta";
