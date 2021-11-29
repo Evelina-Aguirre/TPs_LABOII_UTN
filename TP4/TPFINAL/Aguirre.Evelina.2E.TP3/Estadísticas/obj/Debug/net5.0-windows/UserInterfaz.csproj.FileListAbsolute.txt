@@ -1,0 +1,236 @@
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\Estadísticas.ResultadosEncuestaSueldosIT.resources
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.exe
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.deps.json
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.json
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Charting.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Core.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Data.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Drawing.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CopyComplete
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\2doCuatrimestre\Labo2_Ejercicios\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.CargarNuevaEncuesta.resources
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.CargarNuevaEncuesta.resources
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.exe
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.deps.json
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.json
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Charting.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Core.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Data.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\SciChart.Drawing.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CopyComplete
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.FrmExportar.resources
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\Estadísticas.FrmResultadosEncuestaSueldosIT.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.CargarNuevaEncuesta.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.FrmExportar.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\Estadísticas.FrmResultadosEncuestaSueldosIT.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.exe
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.deps.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\charts4.UI_AnalisisEncuestas.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.exe
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.deps.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Archivos.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\bin\Debug\net5.0-windows\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.CargarNuevaEncuesta.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.FrmExportar.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\charts4.UI_AnalisisEncuestas.resources
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\ref\UserInterfaz.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\Estadísticas\obj\Debug\net5.0-windows\UserInterfaz.genruntimeconfig.cache

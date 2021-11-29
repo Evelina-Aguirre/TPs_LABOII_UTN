@@ -1,0 +1,51 @@
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CopyComplete
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\COPIA SEGURIDAD TP3\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\EstadisticasEntidades.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP4\TPFINAL\Aguirre.Evelina.2E.TP3\DB\obj\Debug\net5.0\DB.pdb
