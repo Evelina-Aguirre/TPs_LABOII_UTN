@@ -18,7 +18,7 @@ namespace EstadisticasEntidades
          listaDatosPedidos= new List<Encuesta> ();
         }
     /// <summary>
-    /// Busca encuesta por Sexo
+    /// Busca encuesta por parámetro que coincide.
     /// </summary>
     /// <param name="listaEncuestas"></param>
     /// <param name="auxString"></param>
@@ -50,7 +50,7 @@ namespace EstadisticasEntidades
         }
 
         /// <summary>
-        /// Busca encuestas por Sexo
+        /// Busca encuestas por Sexo.
         /// </summary>
         /// <param name="listaEncuestas"></param>
         /// <param name="auxString"></param>
@@ -74,7 +74,7 @@ namespace EstadisticasEntidades
         }
 
         /// <summary>
-        /// Busca encuestas por Edad
+        /// Busca encuestas por Edad.
         /// </summary>
         /// <param name="listaEncuestas"></param>
         /// <param name="auxString"></param>
@@ -98,7 +98,7 @@ namespace EstadisticasEntidades
         }
 
         /// <summary>
-        /// Busca encuestas por provincia
+        /// Busca encuestas por provincia.
         /// </summary>
         /// <param name="listaEncuestas"></param>
         /// <param name="auxString"></param>
@@ -146,7 +146,7 @@ namespace EstadisticasEntidades
         }
 
         /// <summary>
-        /// Busca encuesta por Sexo
+        /// Busca encuesta por Sexo.
         /// </summary>
         /// <param name="listaEncuestas"></param>
         /// <param name="auxString"></param>

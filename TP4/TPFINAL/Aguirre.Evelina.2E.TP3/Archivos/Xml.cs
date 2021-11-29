@@ -20,6 +20,10 @@ namespace Archivos
             path += @"\Aguirre Evelina 2E Archivos\";
         }
 
+        /// <summary>
+        /// Deserializada datos provenientes de un archivo xml.
+        /// </summary>
+        /// <returns></returns>
         public List<Encuesta> LeerDatos()
         {
             List<Encuesta> listaEncuestas = null;
@@ -61,7 +65,10 @@ namespace Archivos
             }
         }
 
-
+        /// <summary>
+        /// Serializa datos recibidos de una lista a formato xml.
+        /// </summary>
+        /// <param name="listaEncuestas"></param>
         public void GuardarDatos(List<Encuesta> listaEncuestas)
         {
             string nombre = path + "EncuestasSueldosItArgentina2021_" + DateTime.Now.ToString("HH_mm_ss") + ".xml";

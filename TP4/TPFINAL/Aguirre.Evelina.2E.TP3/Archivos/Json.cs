@@ -16,7 +16,10 @@ namespace Archivos
             path += @"\Aguirre Evelina 2E Archivos\";
         }
 
-
+        /// <summary>
+        /// Serializa datos en formato Json.
+        /// </summary>
+        /// <param name="listaEncuestas"></param>
         public void GuardarDatos(List<Encuesta> listaEncuestas)
         {
             string nombre = path + "EncuestasSueldosItArgentina2021_" + DateTime.Now.ToString("HH_mm_ss") + ".js";
@@ -39,6 +42,10 @@ namespace Archivos
 
         }
 
+        /// <summary>
+        /// Deserializa un archivo en formato json.
+        /// </summary>
+        /// <returns></returns>
         public List<Encuesta> LeerDatos()
         {
             string rutaArchivoPrevioEnPath = string.Empty;
