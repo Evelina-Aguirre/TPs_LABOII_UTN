@@ -1,4 +1,5 @@
 ﻿using AnalyticsEntidades;
+using Archivos;
 using EstadisticasEntidades;
 using Excepciones;
 using System;
@@ -139,6 +140,9 @@ namespace UserInterfaz
                     Convert.ToInt32(cmbRecomiendaEmpresa.SelectedItem.ToString()));
                 
                 CalculoEstadistica.listaDatosPedidos.Add(nuevaEncuesta);
+                Xml auxXml = new Xml();
+                auxXml.GuardarDatos(CalculoEstadistica.listaDatosPedidos);
+
             }
             catch(DatoInvalido ex)
             {

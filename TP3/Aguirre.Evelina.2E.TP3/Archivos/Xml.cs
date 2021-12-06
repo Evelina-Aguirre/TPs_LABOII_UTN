@@ -16,7 +16,7 @@ namespace Archivos
         
         static Xml()
         {
-            //path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+           
             path = AppDomain.CurrentDomain.BaseDirectory;
             path += @"\Aguirre Evelina 2E Archivos\";
         }

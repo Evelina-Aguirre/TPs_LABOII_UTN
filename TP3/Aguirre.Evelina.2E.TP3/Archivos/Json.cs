@@ -12,7 +12,7 @@ namespace Archivos
 
         static Json()
         {
-            path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            path = AppDomain.CurrentDomain.BaseDirectory;
             path += @"\Aguirre Evelina 2E Archivos\";
         }
 
@@ -78,9 +78,6 @@ namespace Archivos
             {
                 throw new Exception($"Error al intentar leer Archivo : ", ex);
             }
-
-
-
 
 
         }

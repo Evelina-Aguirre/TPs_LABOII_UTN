@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A28RsB0y+irh2SwIh1qUKDmcul2uoXVNJLrc1e97pfrHz5nlnWLePFVs471tIwoL7j7BL8xtFa2C/BHlMtcx5g==",
+  "dgSpecHash": "GTKtmsOQtH8BpnBKWydL91XotD3/YUEsLkP/InVR08KdAmNiYlGjTRrUWQ3Nef96Saz7H5zIBaW+ven+rME3wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

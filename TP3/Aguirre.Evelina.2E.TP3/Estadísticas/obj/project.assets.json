@@ -2801,11 +2801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
       "projectName": "UserInterfaz",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\UserInterfaz.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Estadísticas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2822,14 +2822,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj"
+            "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj"
             },
-            "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj"
+            "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj"
             },
-            "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj"
+            "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj"
             }
           }
         }

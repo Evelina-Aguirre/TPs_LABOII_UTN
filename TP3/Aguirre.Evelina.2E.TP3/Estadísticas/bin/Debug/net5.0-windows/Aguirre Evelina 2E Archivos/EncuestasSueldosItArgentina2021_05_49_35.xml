@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEncuesta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Encuesta>
+    <Salario_Bruto>170000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>40</Edad>
+    <Experiencia>20</Experiencia>
+    <Personal_a_Cargo>10</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>106000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>13</Experiencia>
+    <Personal_a_Cargo>8</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>95583</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93856</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>45</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>4</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>2</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>44</Edad>
+    <Experiencia>15</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>20</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>1</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>32</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>4</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>37</Edad>
+    <Experiencia>12</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>helpdesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>27</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>45</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>93000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>83000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>82000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>77000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>36</Edad>
+    <Experiencia>12</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>75000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>75000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>46</Edad>
+    <Experiencia>11</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>2</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>73000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>71000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>70215</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>33</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>70000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>36</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>65000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>37</Edad>
+    <Experiencia>14</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>65000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>64000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>33</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>Helpdesk,dba,infraestructura</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>64000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>9</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>63000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>54</Edad>
+    <Experiencia>30</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>62000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>45</Edad>
+    <Experiencia>14</Experiencia>
+    <Personal_a_Cargo>11</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>61000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>35</Edad>
+    <Experiencia>15</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>61000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>60255</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>60000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>40</Edad>
+    <Experiencia>15</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>60000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>59533</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>58000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>9</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>4</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>56000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>39</Edad>
+    <Experiencia>19</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>56000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>56000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>55700</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>55000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>33</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>4</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>55000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>55000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>55000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>35</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>54000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>54000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>34</Edad>
+    <Experiencia>13</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>51600</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>51348</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>50000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>50000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>34</Edad>
+    <Experiencia>14</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>50000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>3</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>48380</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>38</Edad>
+    <Experiencia>18</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>48000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>32</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>48000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>32</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>47000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>46740</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>50</Edad>
+    <Experiencia>25</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>46000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>33</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>46000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>38</Edad>
+    <Experiencia>20</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>46000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>14</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45368</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>39</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>45000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>44000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>36</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>1</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>43000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42100</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>42000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>9</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>41800</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>41000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40800</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40700</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>36</Edad>
+    <Experiencia>8</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Freelance</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>29</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>40000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>28</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>39850</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>38000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>2</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>38000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>19</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>37530</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>23</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>37000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>37000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>36736</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>34</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>36400</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>30</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>36000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>32</Edad>
+    <Experiencia>6</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>3</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35600</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>4</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>10</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>5</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>2</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>35000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>9</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>34780</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>40</Edad>
+    <Experiencia>20</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>34000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>40</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>34000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>34</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>34000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>26</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>33410.92</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>27</Edad>
+    <Experiencia>7</Experiencia>
+    <Personal_a_Cargo>1</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>6</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>33400</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>32000</Salario_Bruto>
+    <Se_Identifica>Mujer</Se_Identifica>
+    <Edad>25</Edad>
+    <Experiencia>4</Experiencia>
+    <Personal_a_Cargo>2</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>32000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Terciario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>32000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>31</Edad>
+    <Experiencia>5</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Producto basado en Software</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>32000</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>24</Edad>
+    <Experiencia>0</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>En curso</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>10</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>0</Salario_Bruto>
+    <Se_Identifica>Hombre</Se_Identifica>
+    <Edad>22</Edad>
+    <Experiencia>3</Experiencia>
+    <Personal_a_Cargo>0</Personal_a_Cargo>
+    <Nivel_Estudios>Universitario</Nivel_Estudios>
+    <Estado_Estudios>Incompleto</Estado_Estudios>
+    <Puesto>HelpDesk</Puesto>
+    <Jornada>Part-Time</Jornada>
+    <Rubro>Servicios / Consultoría de Software / Digital</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>8</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>30000</Salario_Bruto>
+    <Se_Identifica>Otro</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>9</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>Help Desk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>50001</Salario_Bruto>
+    <Se_Identifica>Otro</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>9</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>Help Desk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+  <Encuesta>
+    <Salario_Bruto>50001</Salario_Bruto>
+    <Se_Identifica>Otro</Se_Identifica>
+    <Edad>21</Edad>
+    <Experiencia>1</Experiencia>
+    <Personal_a_Cargo>9</Personal_a_Cargo>
+    <Nivel_Estudios>Secundario</Nivel_Estudios>
+    <Estado_Estudios>Completado</Estado_Estudios>
+    <Puesto>Help Desk</Puesto>
+    <Jornada>Full-Time</Jornada>
+    <Rubro>Otras industrias</Rubro>
+    <Provincia>Ciudad Autónoma de Buenos Aires</Provincia>
+    <Recomienda_Empresa>7</Recomienda_Empresa>
+  </Encuesta>
+</ArrayOfEncuesta>

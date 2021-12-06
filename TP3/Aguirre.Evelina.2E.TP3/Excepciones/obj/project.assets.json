@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
       "projectName": "Excepciones",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\Excepciones.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Excepciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

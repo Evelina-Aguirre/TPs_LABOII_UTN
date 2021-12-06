@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9/B28UO34md0MpaRsRvUuTZo9EiCJOjG9Ze1ZcKvC+DvT8wfpL9MpewSg3UvJe3jYyhBTIT3KWvNZ+8xhsR9Q==",
+  "dgSpecHash": "DdKX5nb6UFZ+pJq3c9z9j08FnDzk2gbzQ2uILLD+/ws/igC9Bs4FX4Z2PxSJxyj6q2WmVFlAhb/fGcN1IVwmYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\Archivos\\Archivos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

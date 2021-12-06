@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/GWkgXguW0lxBEPnuoeij6nX5+0SSx8eI5tpNNZcTDQfp9aVUr62q6nuGz1YMdeyGN+rTQdEd20SlV5Dt2LP1w==",
+  "dgSpecHash": "JGy9WADzpxTWKkVZDgRQy9jSErLTVkwQayXiuRnZbdKKgqttSv4yK9sfSOfXAcSgJUWLCoKGnoLCykxV59B9fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPS_LABOII_2021_2E\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TPs_LABOII_UTN\\TP3\\Aguirre.Evelina.2E.TP3\\AnalyticsEntidades\\EstadisticasEntidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
