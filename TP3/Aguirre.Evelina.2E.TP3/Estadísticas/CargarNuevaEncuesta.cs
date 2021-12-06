@@ -3,13 +3,6 @@ using Archivos;
 using EstadisticasEntidades;
 using Excepciones;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace UserInterfaz
@@ -80,10 +73,10 @@ namespace UserInterfaz
                 cmbRecomiendaEmpresa.Items.Add(i);
             }
             
-            for (int i = 30000; i <9999999 ; i++)
+            for (int i = 30000; i <200000 ; i++)
             {
                 cmbSalarioNeto.Items.Add(i);
-                i+=20000;
+                i+=10000;
             }
             
             cmbRubro.Items.Add("Otras industrias");
