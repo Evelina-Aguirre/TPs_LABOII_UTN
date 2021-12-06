@@ -44,7 +44,7 @@ namespace UserInterfaz
             cmbPuesto.SelectedIndex = 0;
             cmbRecomiendaEmpresa.SelectedIndex = rnd.Next(0, 10);
             cmbRubro.SelectedIndex = rnd.Next(0, 2);
-            cmbSalarioNeto.SelectedIndex = rnd.Next(0, 40);
+            cmbSalarioNeto.SelectedIndex = rnd.Next(0, 10);
 
 
         }

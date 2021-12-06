@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadisticasEntidades", "An
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\Excepciones.csproj", "{4A1F36C2-FDF3-4A5C-9850-AFB2A194AAA8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{2DF661F5-B825-4348-870C-8E70F6564C9F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInterfaz", "Estadísticas\UserInterfaz.csproj", "{7CB9A1BD-3CFA-45F3-9131-D6297B6C58B8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Archivos", "Archivos\Archivos.csproj", "{D1BECF71-A1FF-4245-BFB7-812BF4BD4E40}"
@@ -29,10 +27,6 @@ Global
 		{4A1F36C2-FDF3-4A5C-9850-AFB2A194AAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A1F36C2-FDF3-4A5C-9850-AFB2A194AAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1F36C2-FDF3-4A5C-9850-AFB2A194AAA8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2DF661F5-B825-4348-870C-8E70F6564C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DF661F5-B825-4348-870C-8E70F6564C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DF661F5-B825-4348-870C-8E70F6564C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DF661F5-B825-4348-870C-8E70F6564C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CB9A1BD-3CFA-45F3-9131-D6297B6C58B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CB9A1BD-3CFA-45F3-9131-D6297B6C58B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CB9A1BD-3CFA-45F3-9131-D6297B6C58B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
