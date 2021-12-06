@@ -58,3 +58,15 @@ C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP3\Aguirre.Evel
 C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.dll
 C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
 C:\Users\Usuario\source\repos\TPS_LABOII_2021_2E\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\bin\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.dll
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+C:\Users\Usuario\source\repos\TPs_LABOII_UTN\TPs_LABOII_UTN\TP3\Aguirre.Evelina.2E.TP3\Excepciones\obj\Debug\net5.0\Excepciones.pdb
